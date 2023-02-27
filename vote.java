@@ -16,6 +16,7 @@ public static void main(String [] args)
     Scanner sc = new Scanner(System.in);
 
     int reg = sc.nextInt();
-    System.out.println("student record"); 
+    System.out.println("student record");
+    // 27.02.2023
 }
 }
